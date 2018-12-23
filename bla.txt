@@ -1,1 +1,10 @@
-hier schrijf ik tekst
+1. maak een repository aan op github.com
+2. hou de url bij: vb. https://github.com/rbnm/test
+3. open de folder op de pc
+4. rechtermuisknop: open git bash
+5. git init
+6.git remote add origin https://github.com/rbnm/test
+vanaf hier elke keer herhalen per comit
+7. git add .
+8. git commit -m "message"
+9. git push origin master
